@@ -10,8 +10,8 @@ python read_plutus.py --pdf-path <path-to-pdf-file> --output <output-csv-file>
 
 ## Getting PDF
 
-#. Go to Plutus site and login.
-#. Click on "Statements".
-#. Make "All Time" is selected. You can delete the other dates if you want later once the CSV is created.
-#. Click on "Download".
-#. Run the script on the downloaded PDF.
+1. Go to Plutus site and login.
+1. Click on "Statements".
+1. Make "All Time" is selected. You can delete the other dates if you want later once the CSV is created.
+1. Click on "Download".
+1. Run the script on the downloaded PDF.
